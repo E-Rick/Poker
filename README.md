@@ -1,4 +1,4 @@
-# Poker
+# Texas Hold'em Poker with Ruby
 Poker game built with Ruby
 
 
