@@ -1,8 +1,6 @@
 # Texas Hold'em Poker with Ruby
-Poker game built with Ruby
 
-
-Project Structure
+### Project Structure
 
 APIProxy.rb
 - An Abstract Class that should work for any API call with a JSON response
